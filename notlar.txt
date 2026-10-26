@@ -1,0 +1,5 @@
+1. pwd: Su anki konumu gosterir
+2. cd:Klasorler arasi gecis yapar
+3. touch: bos yeni klasor olusturur
+4. ls: Klasor icindeki dosyalari listeler
+5. mkdir: Yeni klasor olusturur
