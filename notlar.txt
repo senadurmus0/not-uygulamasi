@@ -3,8 +3,8 @@
 3. touch: bos yeni klasor olusturur
 4. ls: Klasor icindeki dosyalari listeler
 5. mkdir: Yeni klasor olusturur
-1. git init: Yeni bir Git reposu baslatir.
-2. git status: Tüm degisiklikleri gosterir.
-3. git add: Degisiklikleri staging area'ya aktarır.
-4. git commit -m : Staging'deki degisiklikleri version olarak kaydeder.
-5. git log: Commit gecmisini listeler.
+6. git init: Yeni bir Git reposu baslatir.
+7. git status: Tüm degisiklikleri gosterir.
+8. git add: Degisiklikleri staging area'ya aktarır.
+9. git commit -m : Staging'deki degisiklikleri version olarak kaydeder.
+10. git log: Commit gecmisini listeler.
