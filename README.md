@@ -1,2 +1,1 @@
-Not Uygulamasi-Ders notlarimi takip ettigim proje
-Geliştirici: Senanur Durmuş (main versiyonu)
+Geliştirici: Senanur Durmus (main ve feature versiyonları birleştirildi)
